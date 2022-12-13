@@ -1,0 +1,129 @@
+body{
+  margin:0;
+
+}
+.navbar{
+  font-size: 1.5rem;
+
+  font-weight: 400;
+}
+h1{
+  color:red;
+
+  padding-bottom: 5%;
+}
+
+.navbar-brand{
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+
+   font-weight: bold;
+
+}
+.container-fluid{
+  padding:1% 5%;
+}
+
+/* title section */
+#title{
+  margin:0;
+    background-color:  #F9B5D0;
+}
+.titleheading{
+    text-align: center;
+
+    font-family: 'Montserrat-black', sans-serif;
+      font-size:3.5rem;
+      line-height:1.5;
+      font-weight: 700;
+      padding: 7% 5%;
+
+
+}
+.imagelogo{
+
+  width: 15%;
+  border-radius: 100px;
+
+}
+.big-heading{
+  text-align: left;
+
+  font-family: 'Montserrat-black', sans-serif;
+    font-size:3.5rem;
+    line-height:1.5;
+    font-weight: 900;
+    color:#990000;
+}
+.t-image{
+padding-top: 7%;
+
+}
+.imageNotes{
+  width: 90%;
+  height:80%;
+
+}
+
+/* notes section  */
+#notes{
+    background-color:#E1FFB1;
+
+
+
+}
+
+
+.notesheading{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 2;
+  font-weight: 700;
+  padding-top:5%;
+
+
+
+}
+
+.notes-column {
+padding: 3% 2%;
+}
+
+.noteparaghap{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 2;
+  font-weight: 400;
+
+}
+#footer{
+  text-align: center;
+background-color: #DBA39A;
+  color:#fff;
+
+}
+.social-icon{
+  color: black;
+  margin: 20px 15px;
+}
+
+/* Notes page css */
+#noteslist{
+    background-color: #FAEAB1;
+
+}
+.notes-heading{
+
+  text-align: center;
+  padding:7% 15%;
+  line-height: 2;
+
+
+}
+.pagination{
+  margin-bottom: 0;
+  padding-bottom: 5%;
+
+}
